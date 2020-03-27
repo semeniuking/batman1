@@ -283,7 +283,7 @@ body{
     .tabs-content{
         margin-right: 0;
     }
-    
+
 }
 @media ( max-width: 578px){
     .container{
@@ -301,7 +301,7 @@ body{
     .content{
         flex-wrap: wrap;
     }
-    .actors-list, .actors-title{
+    .actors-list, .title-actors{
         display: none;
     }
     .short-info{
